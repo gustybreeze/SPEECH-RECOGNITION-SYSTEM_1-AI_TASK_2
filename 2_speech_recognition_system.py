@@ -4,7 +4,7 @@ import speech_recognition as sr
 recognizer = sr.Recognizer()
 
 #loaded a .wav file 
-audio_file = "c:\codtech_internship\my codes\samp_aud.wav"
+audio_file = r"C:\codtech_internship\my codes\1_ai\harvard.wav"
 
 #process the audio
 with sr.AudioFile(audio_file) as source:
