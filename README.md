@@ -109,7 +109,9 @@ For a user-friendly experience, a basic Tkinter interface was designed where use
 
 
 **Conclusion**
+
 This task helped me explore one of the most interactive domains of AI: speech interfaces. I developed a deeper appreciation for the complexities behind seemingly simple voice assistants and built a working model that demonstrates how machines can understand human speech. The tool can be further extended with features like saving transcripts, language switching, and using offline recognizers for improved privacy and control.
 
 
 **Output**
+<img width="1918" height="985" alt="Image" src="https://github.com/user-attachments/assets/9b1735dd-e4dd-4fdb-bb41-d06cee529c1a" />
